@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Headphones",
+      "category": "Electronics",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "price": 7000
+    },
+    {
+      "id": 5,
+      "title": "Tablet",
+      "category": "Electronics",
+      "price": 18000
+    },
+    {
+      "id": 6,
+      "title": "Gaming Console",
+      "category": "Electronics",
+      "price": 40000
+    },
+    {
+      "id": 7,
+      "title": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 5000
+    },
+    {
+      "id": 8,
+      "title": "Camera",
+      "category": "Electronics",
+      "price": 30000
+    },
+    {
+      "id": 9,
+      "title": "Monitor",
+      "category": "Electronics",
+      "price": 12000
+    },
+    {
+      "id": 10,
+      "title": "Printer",
+      "category": "Electronics",
+      "price": 8000
+    },
+    {
+      "id": 11,
+      "title": "Keyboard",
+      "category": "Electronics",
+      "price": 1500
+    },
+    {
+      "id": 12,
+      "title": "Mouse",
+      "category": "Electronics",
+      "price": 800
+    },
+    {
+      "id": 13,
+      "title": "External Hard Drive",
+      "category": "Electronics",
+      "price": 6000
+    },
+    {
+      "id": 14,
+      "title": "Power Bank",
+      "category": "Electronics",
+      "price": 2000
+    },
+    {
+      "id": 15,
+      "title": "Wireless Router",
+      "category": "Electronics",
+      "price": 3500
+    },
+    {
+      "id": 16,
+      "title": "Projector",
+      "category": "Electronics",
+      "price": 25000
+    },
+    {
+      "id": 17,
+      "title": "VR Headset",
+      "category": "Electronics",
+      "price": 22000
+    },
+    {
+      "id": 18,
+      "title": "Drone",
+      "category": "Electronics",
+      "price": 45000
+    },
+    {
+      "id": 20,
+      "title": "Home Theater System",
+      "category": "Electronics",
+      "price": 30000
+    },
+    {
+      "title": "tv",
+      "category": "electronics",
+      "price": 8000,
+      "id": 22
+    },
+    {
+      "title": "realme smartphone",
+      "category": "electronics",
+      "price": 50000,
+      "id": 23
+    },
+    {
+      "title": "oppo",
+      "category": "hand ",
+      "price": 9003,
+      "id": 24
+    }
+  ]
+}
