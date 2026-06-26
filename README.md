@@ -2,7 +2,7 @@ Project Features 🚀
 
 1.Fetch Products (GET) 📥
 
-Products ko JSON Server se fetch kiya gaya Redux Toolkit ke through
+Products ko JSON Server se fetch kiya gaja Redux Toolkit ke through
 
 useEffect + fetchProduct async thunk use kiya
 
